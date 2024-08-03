@@ -1,0 +1,35 @@
+{
+	"name": "BronzeLayerParquetTables",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "BronzeADLS",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"paramSchemaName": {
+				"type": "string"
+			},
+			"paramTableName": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": {
+					"value": "@concat(dataset().paramTableName,'.parquet')",
+					"type": "Expression"
+				},
+				"folderPath": {
+					"value": "@concat(dataset().paramSchemaName,'/',dataset().paramTableName)",
+					"type": "Expression"
+				},
+				"fileSystem": "bronze"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": []
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"name": "onpremise_sqlserver",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "Integrated Security=False;Data Source=localhost;Initial Catalog=AdventureWorksLT2017;User ID=localdb",
+			"password": {
+				"type": "AzureKeyVaultSecret",
+				"store": {
+					"referenceName": "kv_data_engineering_project",
+					"type": "LinkedServiceReference"
+				},
+				"secretName": "localdb1-password"
+			}
+		},
+		"connectVia": {
+			"referenceName": "selfhosted-integration-runtime-data-engineer-project",
+			"type": "IntegrationRuntimeReference"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/linkedservices"
+}

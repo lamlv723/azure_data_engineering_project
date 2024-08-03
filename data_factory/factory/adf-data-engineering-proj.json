@@ -1,0 +1,9 @@
+{
+	"name": "adf-data-engineering-proj",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "[deleted]",
+		"tenantId": "[deleted]"
+	}
+}

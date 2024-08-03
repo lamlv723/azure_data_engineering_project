@@ -1,0 +1,7 @@
+{
+	"name": "selfhosted-integration-runtime-data-engineer-project",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "connect to local sql server"
+	}
+}

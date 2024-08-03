@@ -1,0 +1,296 @@
+﻿Product_ID,Product_Category_ID,Product_Model_ID,Product_Number,Name,Color,Size,Weight,List_Price,Standard_Cost,Thumbnail_Photo_File_Name,Sell_Start_Date,Sell_End_Date,Modified_Date,Discontinued_Date,rowguid
+680,18,6,FR-R92B-58,"HL Road Frame - Black, 58",Black,58,1016.04,1431.5,1059.31,no_image_available_small.gif,2002-06-01 00:00:00,,2008-03-11 00:00:00,,43dd68d6-14a4-461f-9069-55309d90ea7e
+706,18,6,FR-R92R-58,"HL Road Frame - Red, 58",Red,58,1016.04,1431.5,1059.31,no_image_available_small.gif,2002-06-01 00:00:00,,2008-03-11 00:00:00,,9540ff17-2712-4c90-a3d1-8ce5568b2462
+707,35,33,HL-U509-R,"Sport-100 Helmet, Red",Red,,,34.99,13.0863,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,2e1ef41a-c08a-4ff6-8ada-bde58b64a712
+708,35,33,HL-U509,"Sport-100 Helmet, Black",Black,,,34.99,13.0863,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,a25a44fb-c2de-4268-958f-110b8d7621e2
+709,27,18,SO-B909-M,"Mountain Bike Socks, M",White,M,,9.5,3.3963,no_image_available_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,18f95f47-1540-4e02-8f1f-cc1bcb6828d0
+710,27,18,SO-B909-L,"Mountain Bike Socks, L",White,L,,9.5,3.3963,no_image_available_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,161c035e-21b3-4e14-8e44-af508f35d80a
+711,35,33,HL-U509-B,"Sport-100 Helmet, Blue",Blue,,,34.99,13.0863,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,fd7c0858-4179-48c2-865b-abd5dfc7bc1d
+712,23,2,CA-1098,AWC Logo Cap,Multi,,,8.99,6.9223,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,b9ede243-a6f4-4629-b1d4-ffe1aedc6de7
+713,25,11,LJ-0192-S,"Long-Sleeve Logo Jersey, S",Multi,S,,49.99,38.4923,awc_jersey_male_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,fd449c82-a259-4fae-8584-6ca0255faf68
+714,25,11,LJ-0192-M,"Long-Sleeve Logo Jersey, M",Multi,M,,49.99,38.4923,awc_jersey_male_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,6a290063-a0cf-432a-8110-2ea0fda14308
+715,25,11,LJ-0192-L,"Long-Sleeve Logo Jersey, L",Multi,L,,49.99,38.4923,awc_jersey_male_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,34cf5ef5-c077-4ea0-914a-084814d5cbd5
+716,25,11,LJ-0192-X,"Long-Sleeve Logo Jersey, XL",Multi,XL,,49.99,38.4923,awc_jersey_male_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,6ec47ec9-c041-4dda-b686-2125d539ce9b
+717,18,6,FR-R92R-62,"HL Road Frame - Red, 62",Red,62,1043.26,1431.5,868.6342,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,052e4f8b-0a2a-46b2-9f42-10febcfae416
+718,18,6,FR-R92R-44,"HL Road Frame - Red, 44",Red,44,961.61,1431.5,868.6342,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,a88d3b54-2cae-43f2-8c6e-ea1d97b46a7c
+719,18,6,FR-R92R-48,"HL Road Frame - Red, 48",Red,48,979.75,1431.5,868.6342,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,07befc9a-7634-402b-b234-d7797733baaf
+720,18,6,FR-R92R-52,"HL Road Frame - Red, 52",Red,52,997.9,1431.5,868.6342,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,fcfea68f-310e-4e6e-9f99-bb17d011ebae
+721,18,6,FR-R92R-56,"HL Road Frame - Red, 56",Red,56,1016.04,1431.5,868.6342,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,56c85873-4993-41b4-8096-1067cfd7e4bd
+722,18,9,FR-R38B-58,"LL Road Frame - Black, 58",Black,58,1115.83,337.22,204.6251,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,2140f256-f705-4d67-975d-32de03265838
+723,18,9,FR-R38B-60,"LL Road Frame - Black, 60",Black,60,1124.9,337.22,204.6251,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,aa95e2a5-e7c4-4b74-b1ea-b52ee3b51537
+724,18,9,FR-R38B-62,"LL Road Frame - Black, 62",Black,62,1133.98,337.22,204.6251,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,5247be33-50bf-4527-8a30-a39aae500a8e
+725,18,9,FR-R38R-44,"LL Road Frame - Red, 44",Red,44,1052.33,337.22,187.1571,no_image_available_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,137d319d-44ad-42b2-ab61-60b9ce52b5f2
+726,18,9,FR-R38R-48,"LL Road Frame - Red, 48",Red,48,1070.47,337.22,187.1571,no_image_available_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,35213547-275f-4767-805d-c8a4b8e13745
+727,18,9,FR-R38R-52,"LL Road Frame - Red, 52",Red,52,1088.62,337.22,187.1571,no_image_available_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,c455e0b3-d716-419d-abf0-7e03efdd2e26
+728,18,9,FR-R38R-58,"LL Road Frame - Red, 58",Red,58,1115.83,337.22,187.1571,no_image_available_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,799a56ff-5ad2-41b3-bfac-528b477ad129
+729,18,9,FR-R38R-60,"LL Road Frame - Red, 60",Red,60,1124.9,337.22,187.1571,no_image_available_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,1784bb14-d1f5-4b24-92da-9127ad179302
+730,18,9,FR-R38R-62,"LL Road Frame - Red, 62",Red,62,1133.98,337.22,187.1571,no_image_available_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,7e73aa1f-8569-4d87-9f80-ac2e513e0803
+731,18,16,FR-R72R-44,"ML Road Frame - Red, 44",Red,44,1006.97,594.83,352.1394,no_image_available_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,459e041c-3234-409e-b4cd-81728f8a2398
+732,18,16,FR-R72R-48,"ML Road Frame - Red, 48",Red,48,1025.11,594.83,352.1394,no_image_available_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,b673189c-c042-413b-8194-73bc44b0492c
+733,18,16,FR-R72R-52,"ML Road Frame - Red, 52",Red,52,1043.26,594.83,352.1394,no_image_available_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,55ea276b-82d8-4ccb-9ab1-9b1b75b15a83
+734,18,16,FR-R72R-58,"ML Road Frame - Red, 58",Red,58,1070.47,594.83,352.1394,no_image_available_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,df4ce1e2-ba9a-4657-b999-ccfa6c55d9c1
+735,18,16,FR-R72R-60,"ML Road Frame - Red, 60",Red,60,1079.54,594.83,352.1394,no_image_available_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,b2e48e8c-63a5-469a-ba4c-4f5ebb1104a4
+736,18,9,FR-R38B-44,"LL Road Frame - Black, 44",Black,44,1052.33,337.22,204.6251,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,c9967889-f490-4a66-943a-bce432e938d8
+737,18,9,FR-R38B-48,"LL Road Frame - Black, 48",Black,48,1070.47,337.22,204.6251,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,3b5f29b6-a441-4ff7-a0fa-fad10e2ceb4c
+738,18,9,FR-R38B-52,"LL Road Frame - Black, 52",Black,52,1088.62,337.22,204.6251,no_image_available_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,18fc5d72-a012-4dc7-bb35-0d01a84d0219
+739,16,5,FR-M94S-42,"HL Mountain Frame - Silver, 42",Silver,42,1233.76,1364.5,747.2002,frame_silver_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,8ae32663-8d6f-457d-8343-5b181fec43a7
+740,16,5,FR-M94S-44,"HL Mountain Frame - Silver, 44",Silver,44,1251.91,1364.5,706.811,frame_silver_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,1909c60c-c490-411d-b3e6-12ddd7832482
+741,16,5,FR-M94S-52,"HL Mountain Frame - Silver, 48",Silver,48,1270.05,1364.5,706.811,frame_silver_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,b181ec1f-ca20-4724-b2eb-15f3e455142e
+742,16,5,FR-M94S-46,"HL Mountain Frame - Silver, 46",Silver,46,1288.2,1364.5,747.2002,frame_silver_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,a189d86e-d923-4336-b13d-a5db6f426540
+743,16,5,FR-M94B-42,"HL Mountain Frame - Black, 42",Black,42,1233.76,1349.6,739.041,frame_black_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,27db28f8-5ab8-4091-b94e-6f1b2d8e7ab0
+744,16,5,FR-M94B-44,"HL Mountain Frame - Black, 44",Black,44,1251.91,1349.6,699.0928,frame_black_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,cb443286-6b25-409f-a10b-1ad4eeb4bd4e
+745,16,5,FR-M94B-48,"HL Mountain Frame - Black, 48",Black,48,1270.05,1349.6,699.0928,frame_black_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,1fee0573-6676-432d-8d6d-41ba9faa5865
+746,16,5,FR-M94B-46,"HL Mountain Frame - Black, 46",Black,46,1288.2,1349.6,739.041,frame_black_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,50abebcb-451e-42b9-8dbb-e5c4a34470e9
+747,16,5,FR-M94B-38,"HL Mountain Frame - Black, 38",Black,38,1215.62,1349.6,739.041,frame_black_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,0c548577-3171-4ce2-b9a0-1ed526849de8
+748,16,5,FR-M94S-38,"HL Mountain Frame - Silver, 38",Silver,38,1215.62,1364.5,747.2002,frame_silver_small.gif,2005-07-01 00:00:00,,2008-03-11 00:00:00,,f246acaa-a80b-40ec-9208-02edef885129
+749,6,25,BK-R93R-62,"Road-150 Red, 62",Red,62,6803.85,3578.27,2171.2942,superlight_red_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,bc621e1f-2553-4fdc-b22e-5e44a9003569
+750,6,25,BK-R93R-44,"Road-150 Red, 44",Red,44,6245.93,3578.27,2171.2942,superlight_red_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,c19e1136-5da4-4b40-8758-54a85d7ea494
+751,6,25,BK-R93R-48,"Road-150 Red, 48",Red,48,6409.23,3578.27,2171.2942,superlight_red_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,d10b7cc1-455e-435b-a08f-ec5b1c5776e9
+752,6,25,BK-R93R-52,"Road-150 Red, 52",Red,52,6540.77,3578.27,2171.2942,superlight_red_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,5e085ba0-3cd5-487f-85bb-79ed1c701f23
+753,6,25,BK-R93R-56,"Road-150 Red, 56",Red,56,6658.7,3578.27,2171.2942,superlight_red_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,30819b88-f0d3-4e7a-8105-19f6fac2cefb
+754,6,28,BK-R68R-58,"Road-450 Red, 58",Red,58,8069.37,1457.99,884.7083,roadster_red_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,40d5effa-c0c4-479f-af66-5f1bf8ed3bfb
+755,6,28,BK-R68R-60,"Road-450 Red, 60",Red,60,8119.26,1457.99,884.7083,roadster_red_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,181a90cb-3678-490e-8418-78f73fb5343d
+756,6,28,BK-R68R-44,"Road-450 Red, 44",Red,44,7606.7,1457.99,884.7083,roadster_red_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,f8b5e26a-3d33-4e39-b500-cc21a133062e
+757,6,28,BK-R68R-48,"Road-450 Red, 48",Red,48,7770,1457.99,884.7083,roadster_red_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,c72c9978-0b04-46b3-9de6-948feca1c86e
+758,6,28,BK-R68R-52,"Road-450 Red, 52",Red,52,7901.54,1457.99,884.7083,roadster_red_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,040a4b7d-4060-4507-aa92-7508b434797e
+759,6,30,BK-R50R-58,"Road-650 Red, 58",Red,58,8976.55,782.99,486.7066,superlight_red_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,6711d6bc-664f-4890-9f69-af1de321d055
+760,6,30,BK-R50R-60,"Road-650 Red, 60",Red,60,9026.44,782.99,486.7066,superlight_red_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,664867e5-4ab3-4783-96f9-42efde92f49b
+761,6,30,BK-R50R-62,"Road-650 Red, 62",Red,62,9071.8,782.99,486.7066,superlight_red_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,1da14e09-6d71-4e2a-9ee9-1bdfdfd8a109
+762,6,30,BK-R50R-44,"Road-650 Red, 44",Red,44,8513.88,782.99,486.7066,superlight_red_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,f247aaae-12e3-4048-a37b-cce4a8999e81
+763,6,30,BK-R50R-48,"Road-650 Red, 48",Red,48,8677.18,782.99,486.7066,superlight_red_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,3da5fa6e-9e0f-4896-ac10-948c27f4eb79
+764,6,30,BK-R50R-52,"Road-650 Red, 52",Red,52,8808.72,782.99,486.7066,superlight_red_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,07cfe1ea-8a37-4d2a-835f-bc8d37e564af
+765,6,30,BK-R50B-58,"Road-650 Black, 58",Black,58,8976.55,782.99,486.7066,superlight_black_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,74645b12-3ce9-49a6-bd96-2cd814b37420
+766,6,30,BK-R50B-60,"Road-650 Black, 60",Black,60,9026.44,782.99,486.7066,superlight_black_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,a2db196d-6640-49ea-a84f-2e87ca6f50c6
+767,6,30,BK-R50B-62,"Road-650 Black, 62",Black,62,9071.8,782.99,486.7066,superlight_black_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,c82a8309-63d3-4c0c-ad71-e91272397095
+768,6,30,BK-R50B-44,"Road-650 Black, 44",Black,44,8513.88,782.99,486.7066,superlight_black_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,11d563ac-115c-4f0d-a1e5-e946eee8b38b
+769,6,30,BK-R50B-48,"Road-650 Black, 48",Black,48,8677.18,782.99,486.7066,superlight_black_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,a7e2179e-137c-497e-a5e6-c9ea64935fb0
+770,6,30,BK-R50B-52,"Road-650 Black, 52",Black,52,8808.72,782.99,486.7066,superlight_black_small.gif,2005-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,136e2865-e0da-4624-963a-31349279ab1a
+771,5,19,BK-M82S-38,"Mountain-100 Silver, 38",Silver,38,9230.56,3399.99,1912.1544,superlight_silver_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,ca74b54e-fc30-4464-8b83-019bfd1b2dbb
+772,5,19,BK-M82S-42,"Mountain-100 Silver, 42",Silver,42,9421.06,3399.99,1912.1544,superlight_silver_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,bbfff5a5-4bdc-49a9-a5ad-7584adffe808
+773,5,19,BK-M82S-44,"Mountain-100 Silver, 44",Silver,44,9584.36,3399.99,1912.1544,superlight_silver_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,155fd77e-d6d6-43f0-8a5b-4a8305eb45cd
+774,5,19,BK-M82S-48,"Mountain-100 Silver, 48",Silver,48,9715.9,3399.99,1912.1544,superlight_silver_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,ba5551df-c9ee-4b43-b3ca-8c19d0f9384d
+775,5,19,BK-M82B-38,"Mountain-100 Black, 38",Black,38,9230.56,3374.99,1898.0944,superlight_black_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,dea33347-fcd3-4346-aa0f-068cd6b3ad06
+776,5,19,BK-M82B-42,"Mountain-100 Black, 42",Black,42,9421.06,3374.99,1898.0944,superlight_black_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,02935111-a546-4c6d-941f-be12d42c158e
+777,5,19,BK-M82B-44,"Mountain-100 Black, 44",Black,44,9584.36,3374.99,1898.0944,superlight_black_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,7920bc3b-8fd4-4610-93d2-e693a66b6474
+778,5,19,BK-M82B-48,"Mountain-100 Black, 48",Black,48,9715.9,3374.99,1898.0944,superlight_black_small.gif,2005-07-01 00:00:00,2006-06-30 00:00:00,2008-03-11 00:00:00,,1b486300-7e64-4c5d-a9ba-a8368e20c5a0
+779,5,20,BK-M68S-38,"Mountain-200 Silver, 38",Silver,38,10591.33,2319.99,1265.6195,hotrodbike_silver_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,3a45d835-abae-4806-ac03-c53abcd3b974
+780,5,20,BK-M68S-42,"Mountain-200 Silver, 42",Silver,42,10781.83,2319.99,1265.6195,hotrodbike_silver_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,ce4849b4-56e6-4b50-808b-9bde67cc4704
+781,5,20,BK-M68S-46,"Mountain-200 Silver, 46",Silver,46,10945.13,2319.99,1265.6195,hotrodbike_silver_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,20799030-420c-496a-9922-09189c2b457e
+782,5,20,BK-M68B-38,"Mountain-200 Black, 38",Black,38,10591.33,2294.99,1251.9813,hotrodbike_black_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,82cb8f9b-b8bb-4841-98d3-bcdb807c4dd8
+783,5,20,BK-M68B-42,"Mountain-200 Black, 42",Black,42,10781.83,2294.99,1251.9813,hotrodbike_black_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,2b0af5b9-7571-4621-b760-47df599f9650
+784,5,20,BK-M68B-46,"Mountain-200 Black, 46",Black,46,10945.13,2294.99,1251.9813,hotrodbike_black_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,33f42284-e216-4b98-ba48-b4ee18a01fa0
+785,5,21,BK-M47B-38,"Mountain-300 Black, 38",Black,38,11498.51,1079.99,598.4354,hotrodbike_black_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,f06c2cbf-0901-4c08-80ed-fb4e87171b3b
+786,5,21,BK-M47B-40,"Mountain-300 Black, 40",Black,40,11689.01,1079.99,598.4354,hotrodbike_black_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,580d4322-be03-4c91-83d2-ee33ec6008ab
+787,5,21,BK-M47B-44,"Mountain-300 Black, 44",Black,44,11852.31,1079.99,598.4354,hotrodbike_black_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,07c2a548-0452-47b4-9dce-6edb0a30c85e
+788,5,21,BK-M47B-48,"Mountain-300 Black, 48",Black,48,11983.85,1079.99,598.4354,hotrodbike_black_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,16078dbe-388d-4c18-aa8f-0c8f48035468
+789,6,26,BK-R89R-44,"Road-250 Red, 44",Red,44,6699.52,2443.35,1518.7864,racer_red_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,0aa71ad6-afaf-43c6-9745-35d815b50a5b
+790,6,26,BK-R89R-48,"Road-250 Red, 48",Red,48,6862.82,2443.35,1518.7864,racer_red_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,115ddade-70e3-43f9-80dc-638daea271c4
+791,6,26,BK-R89R-52,"Road-250 Red, 52",Red,52,6994.36,2443.35,1518.7864,racer_red_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,c9fd1df4-9512-420a-b379-067108033b75
+792,6,26,BK-R89R-58,"Road-250 Red, 58",Red,58,7162.19,2443.35,1554.9479,racer_red_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,df629c11-8d8b-4774-9d52-ecb64dc95212
+793,6,26,BK-R89B-44,"Road-250 Black, 44",Black,44,6699.52,2443.35,1554.9479,racer_black_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,1ff419b5-52af-4f7e-aeae-4fec5e99de35
+794,6,26,BK-R89B-48,"Road-250 Black, 48",Black,48,6862.82,2443.35,1554.9479,racer_black_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,9d165ddf-8f5d-41c7-9bb8-13f41a3d1f62
+795,6,26,BK-R89B-52,"Road-250 Black, 52",Black,52,6994.36,2443.35,1554.9479,racer_black_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,74fe3957-cbc3-450a-ab92-849bd13530e2
+796,6,26,BK-R89B-58,"Road-250 Black, 58",Black,58,7112.29,2443.35,1554.9479,racer_black_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,1c530fe8-a169-4adc-b3dc-b11a48245e63
+797,6,29,BK-R64Y-38,"Road-550-W Yellow, 38",Yellow,38,7869.79,1120.49,713.0798,racer02_yellow_f_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,aad81532-a572-49a5-83c3-dfa9e3b4fea6
+798,6,29,BK-R64Y-40,"Road-550-W Yellow, 40",Yellow,40,8060.29,1120.49,713.0798,racer02_yellow_f_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,a35a1c35-c128-4697-951e-4199062e78f3
+799,6,29,BK-R64Y-42,"Road-550-W Yellow, 42",Yellow,42,8223.59,1120.49,713.0798,racer02_yellow_f_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,a359ab09-16f2-4726-a60f-0dfdb1c9527e
+800,6,29,BK-R64Y-44,"Road-550-W Yellow, 44",Yellow,44,8355.13,1120.49,713.0798,racer02_yellow_f_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,0a7028fb-ff06-4d38-aaa1-b64816278165
+801,6,29,BK-R64Y-48,"Road-550-W Yellow, 48",Yellow,48,8473.06,1120.49,713.0798,racer02_yellow_f_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,c90cc877-804c-4ce7-afc3-4c8791a13dfb
+802,14,104,FK-1639,LL Fork,,,,148.22,65.8097,fork_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,fb8502be-07eb-4134-ab06-c3a9959a52ae
+803,14,105,FK-5136,ML Fork,,,,175.49,77.9176,fork_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,f5fa4e2f-b976-48a4-bf79-85632f697d2e
+804,14,106,FK-9939,HL Fork,,,,229.49,101.8936,fork_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,553229b3-1ad9-4a71-a21c-2af4332cfce9
+805,15,59,HS-0296,LL Headset,,,,34.2,15.1848,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,bb6bd7b3-a34d-4d64-822e-781fa6838e19
+806,15,60,HS-2451,ML Headset,,,,102.29,45.4168,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,23b5d52b-8c29-4059-b899-75c53b5ee2e6
+807,15,61,HS-3479,HL Headset,,,,124.73,55.3801,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,12e4d5e8-79ed-4bcb-a532-6275d1a93417
+808,8,52,HB-M243,LL Mountain Handlebars,,,,44.54,19.7758,handlebar_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,b59b7bf2-7afc-4a74-b063-f942f1e0da19
+809,8,54,HB-M763,ML Mountain Handlebars,,,,61.92,27.4925,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,ae6020df-d9c9-4d34-9795-1f80e6bbf5a5
+810,8,55,HB-M918,HL Mountain Handlebars,,,,120.27,53.3999,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,6aa0f921-0f09-4f99-8d3c-335946873553
+811,8,56,HB-R504,LL Road Handlebars,,,,44.54,19.7758,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,acdae407-b40e-435e-8e84-1bfc33013e81
+812,8,57,HB-R720,ML Road Handlebars,,,,61.92,27.4925,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,33fa1a03-38d6-405e-be9b-eea92f3d204f
+813,8,58,HB-R956,HL Road Handlebars,,,,120.27,53.3999,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,5c5327b9-ad2e-4c33-8d74-edf49e0c2dd8
+814,16,15,FR-M63B-38,"ML Mountain Frame - Black, 38",Black,38,1238.3,348.76,185.8193,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,0d879312-a7d3-441d-9d23-b6550bab3814
+815,21,42,FW-M423,LL Mountain Front Wheel,Black,,,60.745,26.9708,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,d7b1d161-182e-44f6-a9ff-9c1eba76613b
+816,21,45,FW-M762,ML Mountain Front Wheel,Black,,,209.025,92.8071,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,5e3e5033-9a77-4dca-8b7f-dfed78efa08a
+817,21,46,FW-M928,HL Mountain Front Wheel,Black,,,300.215,133.2955,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,3c8ffff6-a8dc-45a3-963b-a6284ced7596
+818,21,49,FW-R623,LL Road Front Wheel,Black,,900,85.565,37.9909,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,9e66de78-decb-438a-b9a9-023c773c60a2
+819,21,50,FW-R762,ML Road Front Wheel,Black,,850,248.385,110.2829,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,6ea94fbf-b9aa-43fc-84e8-91d508dde751
+820,21,51,FW-R820,HL Road Front Wheel,Black,,650,330.06,146.5466,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,727a3cd5-8d40-4884-a7e4-dfd3ffdeb164
+821,21,44,FW-T905,Touring Front Wheel,Black,,,218.01,96.7964,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,8d1cdb07-4fa1-4ac1-840f-a16c3dca5009
+822,18,17,FR-R72Y-38,"ML Road Frame-W - Yellow, 38",Yellow,38,988.83,594.83,360.9428,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,22976fa7-0ad0-40f9-b4f9-ba10279ea1a3
+823,21,123,RW-M423,LL Mountain Rear Wheel,Black,,,87.745,38.9588,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,e6c39f58-995f-4786-a309-df3812d8b30f
+824,21,124,RW-M762,ML Mountain Rear Wheel,Black,,,236.025,104.7951,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,b2f7cf9b-a7bf-49ab-9cca-9f6e791cd693
+825,21,125,RW-M928,HL Mountain Rear Wheel,Black,,,327.215,145.2835,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,35d02edc-1120-41fb-b5df-8655a93b3353
+826,21,126,RW-R623,LL Road Rear Wheel,Black,,1050,112.565,49.9789,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,78d01117-8dcd-465f-9dc7-94a2cdc35582
+827,21,77,RW-R762,ML Road Rear Wheel,Black,,1000,275.385,122.2709,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,cf739f9a-0af0-4810-b229-c431a31d7779
+828,21,78,RW-R820,HL Road Rear Wheel,Black,,890,357.06,158.5346,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,8f262a37-43aa-4ad5-ae1f-8bd6967d8e9b
+829,21,43,RW-T905,Touring Rear Wheel,Black,,,245.01,108.7844,wheel_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,30d2254d-e26d-4586-b4c5-e8ccb8a059b8
+830,16,14,FR-M63B-40,"ML Mountain Frame - Black, 40",Black,40,1256.44,348.76,185.8193,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,aed1c9c4-c139-45d2-b38e-0a0a9f518665
+831,16,14,FR-M63B-44,"ML Mountain Frame - Black, 44",Black,44,1274.59,348.76,185.8193,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,3f2135d4-ec5f-4e30-bde8-5444518f0637
+832,16,14,FR-M63B-48,"ML Mountain Frame - Black, 48",Black,48,1292.73,348.76,185.8193,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,c2009b69-f15a-47ec-b710-1809d299318a
+833,18,17,FR-R72Y-40,"ML Road Frame-W - Yellow, 40",Yellow,40,1006.97,594.83,360.9428,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,22df26f2-60bc-493e-a14a-5500633e9f7e
+834,18,17,FR-R72Y-42,"ML Road Frame-W - Yellow, 42",Yellow,42,1025.11,594.83,360.9428,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,207b54da-5404-415d-8578-9a45082e3bf1
+835,18,17,FR-R72Y-44,"ML Road Frame-W - Yellow, 44",Yellow,44,1043.26,594.83,360.9428,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,a0fad492-ac24-4fcf-8d2a-d21d06386ae1
+836,18,17,FR-R72Y-48,"ML Road Frame-W - Yellow, 48",Yellow,48,1061.4,594.83,360.9428,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,8487bfe0-2138-471e-9c6d-fdb3a67e7d86
+837,18,6,FR-R92B-62,"HL Road Frame - Black, 62",Black,62,1043.26,1431.5,868.6342,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,5dce9c8c-fb94-46f8-b826-11658f6a3682
+838,18,6,FR-R92B-44,"HL Road Frame - Black, 44",Black,44,961.61,1431.5,868.6342,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,e4902656-a4bc-4b08-9d47-4f3da0fd76c3
+839,18,6,FR-R92B-48,"HL Road Frame - Black, 48",Black,48,979.75,1431.5,868.6342,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,557b603b-407b-41a4-ae34-4f7747866dba
+840,18,6,FR-R92B-52,"HL Road Frame - Black, 52",Black,52,997.9,1431.5,868.6342,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,0ed082b3-fbba-43af-9149-8741b9fc78c8
+841,26,13,SH-M897-S,"Men's Sports Shorts, S",Black,S,,59.99,24.7459,shorts_male_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,34b08c1f-99d1-43c4-8ef7-2cd754b6665d
+842,39,120,PA-T100,"Touring-Panniers, Large",Grey,,,125,51.5625,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,56334fff-91d4-495e-bf98-933bc1010f23
+843,38,115,LO-C100,Cable Lock,,,,25,10.3125,bike_lock_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,56ffd7b9-1014-4640-b1bd-b2649589b4d7
+844,40,116,PU-0452,Minipump,,,,19.99,8.2459,handpump_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,aaf7a076-9ee3-46bf-a69f-414d847e858b
+845,40,117,PU-M044,Mountain Pump,,,,24.99,10.3084,bikepump_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,57169f80-fafb-4678-8f51-fe1f131d0c83
+846,37,108,LT-T990,Taillights - Battery-Powered,,,,13.99,5.7709,tail_lights_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,3c617b87-50a5-434c-a0d3-22314b7027ee
+847,37,109,LT-H902,Headlights - Dual-Beam,,,,34.99,14.4334,double_headlight_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,417db6cb-f38f-4b0d-87e7-e1ebf7456c3a
+848,37,110,LT-H903,Headlights - Weatherproof,,,,44.99,18.5584,single_headlight_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,fc362c1a-4b9c-4d5f-a6d3-0775846c61f0
+849,26,13,SH-M897-M,"Men's Sports Shorts, M",Black,M,,59.99,24.7459,shorts_male_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,db37b435-74b9-43d3-b363-abbead107bc4
+850,26,13,SH-M897-L,"Men's Sports Shorts, L",Black,L,,59.99,24.7459,shorts_male_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,714184c5-669b-4cf1-a802-30e7b1ea7722
+851,26,13,SH-M897-X,"Men's Sports Shorts, XL",Black,XL,,59.99,24.7459,shorts_male_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,bd3ffe40-fe2e-44cb-a4e0-81786c3a751f
+852,28,38,TG-W091-S,"Women's Tights, S",Black,S,,74.99,30.9334,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,7de86c98-4f5b-4155-8572-c977f14ebaeb
+853,28,38,TG-W091-M,"Women's Tights, M",Black,M,,74.99,30.9334,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,4d8e186c-b8c9-4c64-b411-4995dd87e316
+854,28,38,TG-W091-L,"Women's Tights, L",Black,L,,74.99,30.9334,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,e378c2f3-54f6-4ea9-b049-e8bb32b5bdfd
+855,22,12,SB-M891-S,"Men's Bib-Shorts, S",Multi,S,,89.99,37.1209,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,9f60af1e-4c11-4e90-baea-48e834e8b4c2
+856,22,12,SB-M891-M,"Men's Bib-Shorts, M",Multi,M,,89.99,37.1209,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,e0cbec04-f4fc-450f-9780-f8ea7691febd
+857,22,12,SB-M891-L,"Men's Bib-Shorts, L",Multi,L,,89.99,37.1209,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,e1df75a4-9986-489e-a5de-ad3da824eb5e
+858,24,4,GL-H102-S,"Half-Finger Gloves, S",Black,S,,24.49,9.1593,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,9e1db5c3-539d-4061-9433-d762dc195cd8
+859,24,4,GL-H102-M,"Half-Finger Gloves, M",Black,M,,24.49,9.1593,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,9d458fd5-392d-4ab1-afef-6a5548e48858
+860,24,4,GL-H102-L,"Half-Finger Gloves, L",Black,L,,24.49,9.1593,no_image_available_small.gif,2006-07-01 00:00:00,,2008-03-11 00:00:00,,fa710215-925f-4959-81df-538e72a6a255
+861,24,3,GL-F110-S,"Full-Finger Gloves, S",Black,S,,37.99,15.6709,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,76fac097-1fb3-456b-8fb9-2c7a613771b4
+862,24,3,GL-F110-M,"Full-Finger Gloves, M",Black,M,,37.99,15.6709,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,1084221e-1890-443e-9d87-afcad6358355
+863,24,3,GL-F110-L,"Full-Finger Gloves, L",Black,L,,37.99,15.6709,no_image_available_small.gif,2006-07-01 00:00:00,2007-06-30 00:00:00,2008-03-11 00:00:00,,6116f9d4-8a1d-4022-a642-9c445c197203
+864,29,1,VE-C304-S,"Classic Vest, S",Blue,S,,63.5,23.749,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,eb423ef3-409d-46fe-b35b-d69970820314
+865,29,1,VE-C304-M,"Classic Vest, M",Blue,M,,63.5,23.749,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,2e52f96e-64a1-4069-911c-e3fd6e094a1e
+866,29,1,VE-C304-L,"Classic Vest, L",Blue,L,,63.5,23.749,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,3211f5a8-b6c4-48bd-9aa4-d69cb40d97dd
+867,26,37,SH-W890-S,"Women's Mountain Shorts, S",Black,S,,69.99,26.1763,shorts_female_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,22616fd2-b99f-4f7d-acf6-33dff66d42d2
+868,26,37,SH-W890-M,"Women's Mountain Shorts, M",Black,M,,69.99,26.1763,shorts_female_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,968e3610-e583-42e8-8ab6-484a799b1774
+869,26,37,SH-W890-L,"Women's Mountain Shorts, L",Black,L,,69.99,26.1763,shorts_female_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,1a66b244-5ca0-4153-b539-ae048d14faec
+870,32,111,WB-H098,Water Bottle - 30 oz.,,,,4.99,1.8663,water_bottle_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,834e8d1a-69a7-4c42-8b68-fa08d9ec9e5b
+871,32,112,BC-M005,Mountain Bottle Cage,,,,9.99,3.7363,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,684491de-63f8-4632-90e3-36773c4e63bd
+872,32,113,BC-R205,Road Bottle Cage,,,,8.99,3.3623,water_bottle_cage_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,601b1fe8-d4d0-4cfb-9379-29481cc05291
+873,41,114,PK-7098,Patch Kit/8 Patches,,,,2.29,0.8565,tirepatch_kit_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,36e638e4-68df-411b-930a-daad57221aa6
+874,27,24,SO-R809-M,"Racing Socks, M",White,M,,8.99,3.3623,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,b9c7eb0a-1dd1-4a1d-b4c3-1dad83a8ea7e
+875,27,24,SO-R809-L,"Racing Socks, L",White,L,,8.99,3.3623,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,c0a16305-74b7-4fae-b5c9-3e8bd0e44762
+876,30,118,RA-H123,Hitch Rack - 4-Bike,,,,120,44.88,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,7a0c4bbd-9679-4f59-9ebc-9daf3439a38a
+877,33,119,CL-9009,Bike Wash - Dissolver,,,,7.95,2.9733,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,3c40b5ad-e328-4715-88a7-ec3220f02acf
+878,34,121,FE-6654,Fender Set - Mountain,,,,21.98,8.2205,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,e6e76c7f-c145-4cad-a9e8-b1e4e845a2c0
+879,31,122,ST-1401,All-Purpose Bike Stand,,,,159,59.466,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,c7bb564b-a637-40f5-b21b-cbf7e4f713be
+880,36,107,HY-1023-70,Hydration Pack - 70 oz.,Silver,70,,54.99,20.5663,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,a99d90c0-05e2-4e44-ad90-c55c9f0784de
+881,25,32,SJ-0194-S,"Short-Sleeve Classic Jersey, S",Yellow,S,,53.99,41.5723,awc_tee_male_yellow_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,05b2e20f-2399-4cb3-9b49-b28d6649c104
+882,25,32,SJ-0194-M,"Short-Sleeve Classic Jersey, M",Yellow,M,,53.99,41.5723,awc_tee_male_yellow_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,bbbf003b-367d-4d71-af71-10f50b6234a0
+883,25,32,SJ-0194-L,"Short-Sleeve Classic Jersey, L",Yellow,L,,53.99,41.5723,awc_tee_male_yellow_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,2d9f59b8-9f24-46eb-98ad-553e48bb9db9
+884,25,32,SJ-0194-X,"Short-Sleeve Classic Jersey, XL",Yellow,XL,,53.99,41.5723,awc_tee_male_yellow_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,906d42f6-c21f-4d20-b528-02ffdb55fd1e
+885,20,7,FR-T98Y-60,"HL Touring Frame - Yellow, 60",Yellow,60,1397.06,1003.91,601.7437,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,c49679bd-96a9-4176-a7ed-5bc6d6444647
+886,20,10,FR-T67Y-62,"LL Touring Frame - Yellow, 62",Yellow,62,1451.49,333.42,199.8519,frame_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,8d4d52a6-8abc-4c05-be4d-c067faf1a64e
+887,20,7,FR-T98Y-46,"HL Touring Frame - Yellow, 46",Yellow,46,1342.63,1003.91,601.7437,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,137675a7-34cd-4b7a-abe1-4e0eeb79b65d
+888,20,7,FR-T98Y-50,"HL Touring Frame - Yellow, 50",Yellow,50,1360.77,1003.91,601.7437,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,105ec6e5-30c5-4fe3-a08b-cb324c85323d
+889,20,7,FR-T98Y-54,"HL Touring Frame - Yellow, 54",Yellow,54,1378.91,1003.91,601.7437,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,12b1f317-c39b-48d0-b1a7-8018c60aea53
+890,20,7,FR-T98U-46,"HL Touring Frame - Blue, 46",Blue,46,1342.63,1003.91,601.7437,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,8bbd3437-a58b-41a0-9503-fc14b23e7678
+891,20,7,FR-T98U-50,"HL Touring Frame - Blue, 50",Blue,50,1360.77,1003.91,601.7437,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,c4244f0c-abce-451b-a895-83c0e6d1f448
+892,20,7,FR-T98U-54,"HL Touring Frame - Blue, 54",Blue,54,1378.91,1003.91,601.7437,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,e9aae947-6bc3-4909-8937-3e1cdcec8a8f
+893,20,7,FR-T98U-60,"HL Touring Frame - Blue, 60",Blue,60,1397.06,1003.91,601.7437,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,b01951a4-a581-4d10-9dc2-515da180f1b8
+894,13,127,RD-2308,Rear Derailleur,Silver,,215,121.46,53.9282,sprocket_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,5ebfcf02-4e3e-443a-ad60-5aeef28dac76
+895,20,10,FR-T67U-50,"LL Touring Frame - Blue, 50",Blue,50,1406.13,333.42,199.8519,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,b78eccca-fa88-4071-9110-410585127e46
+896,20,10,FR-T67U-54,"LL Touring Frame - Blue, 54",Blue,54,1424.27,333.42,199.8519,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,0ff799c9-dd11-4b81-aaf7-65410017405b
+897,20,10,FR-T67U-58,"LL Touring Frame - Blue, 58",Blue,58,1433.34,333.42,199.8519,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,ccd4fa47-7194-4bd0-909b-1fa4bd7916a7
+898,20,10,FR-T67U-62,"LL Touring Frame - Blue, 62",Blue,62,1451.49,333.42,199.8519,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,08a211a5-dcd2-42d0-9276-64d92d4890a6
+899,20,10,FR-T67Y-44,"LL Touring Frame - Yellow, 44",Yellow,44,1369.84,333.42,199.8519,frame_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,109cb7bc-6ec6-4a36-85c8-55b843b2ab12
+900,20,10,FR-T67Y-50,"LL Touring Frame - Yellow, 50",Yellow,50,1406.13,333.42,199.8519,frame_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,285fd682-c647-49d1-b8f3-368a43c9cda0
+901,20,10,FR-T67Y-54,"LL Touring Frame - Yellow, 54",Yellow,54,1424.27,333.42,199.8519,frame_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,2536e3b2-d4da-49e6-965a-f612c2c8914f
+902,20,10,FR-T67Y-58,"LL Touring Frame - Yellow, 58",Yellow,58,1433.34,333.42,199.8519,frame_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,5d17ff1c-f50e-438f-a4e9-7c400fb762e7
+903,20,10,FR-T67U-44,"LL Touring Frame - Blue, 44",Blue,44,1369.84,333.42,199.8519,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,e9c17be7-f4dc-465e-ab73-c0198f37bfdd
+904,16,15,FR-M63S-40,"ML Mountain Frame-W - Silver, 40",Silver,40,1256.44,364.09,199.3757,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,a7dde43e-f7d5-4075-a0c1-c866ad7aa154
+905,16,15,FR-M63S-42,"ML Mountain Frame-W - Silver, 42",Silver,42,1274.59,364.09,199.3757,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,d4a2fcad-1e63-4ebd-863c-5a7c48d5b8d9
+906,16,15,FR-M63S-46,"ML Mountain Frame-W - Silver, 46",Silver,46,1292.73,364.09,199.3757,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,82025c63-7b28-412d-92c1-408e0e6ae646
+907,10,128,RB-9231,Rear Brakes,Silver,,317,106.5,47.286,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,5946f163-93f0-4141-b17e-55d9778cc274
+908,19,79,SE-M236,LL Mountain Seat/Saddle,,,,27.12,12.0413,saddle_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,4dab53c5-31e7-47d6-a5a0-940f8d4dad22
+909,19,80,SE-M798,ML Mountain Seat/Saddle,,,,39.14,17.3782,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,30222244-0fd8-4d28-8448-f2e658bf52bd
+910,19,81,SE-M940,HL Mountain Seat/Saddle,,,,52.64,23.3722,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,a96a5024-87de-488a-bf81-bc0c81f6cd18
+911,19,82,SE-R581,LL Road Seat/Saddle,,,,27.12,12.0413,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,31b9bc62-792b-4e7a-a24d-411dc76e0271
+912,19,83,SE-R908,ML Road Seat/Saddle,,,,39.14,17.3782,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,49845afe-a8cc-4354-a5d4-09d35bf7fb9e
+913,19,84,SE-R995,HL Road Seat/Saddle,,,,52.64,23.3722,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,2befe629-4b2a-41a1-a009-df13ead69105
+914,19,66,SE-T312,LL Touring Seat/Saddle,,,,27.12,12.0413,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,7874a1d6-7a5b-412f-a2eb-c2f457b9603d
+915,19,65,SE-T762,ML Touring Seat/Saddle,,,,39.14,17.3782,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,072acb72-7796-4bd0-9bbb-6efc29ac336c
+916,19,67,SE-T924,HL Touring Seat/Saddle,,,,52.64,23.3722,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,0e158724-934d-4a64-991f-94fec00bdea8
+917,16,8,FR-M21S-42,"LL Mountain Frame - Silver, 42",Silver,42,1324.48,264.05,144.5938,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,37bd4d2b-346b-4c6b-8f3f-85c084282529
+918,16,8,FR-M21S-44,"LL Mountain Frame - Silver, 44",Silver,44,1342.63,264.05,144.5938,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,393a4d00-7428-41f0-a48a-af26b00e9a9c
+919,16,8,FR-M21S-48,"LL Mountain Frame - Silver, 48",Silver,48,1360.77,264.05,144.5938,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,8dfef6f2-91a8-4884-8949-b2551218b37a
+920,16,8,FR-M21S-52,"LL Mountain Frame - Silver, 52",Silver,52,1378.91,264.05,144.5938,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,f230baac-5951-4eb1-b1e8-94c2ca2b37fa
+921,41,92,TT-M928,Mountain Tire Tube,,,,4.99,1.8663,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,01a8c3fc-ed52-458e-a634-d5b6e2accfed
+922,41,93,TT-R982,Road Tire Tube,,,,3.99,1.4923,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,ea442bd7-f69b-42d9-aa71-95e10b648f52
+923,41,94,TT-T092,Touring Tire Tube,,,,4.99,1.8663,innertube_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,179fec38-cab5-4a47-bcff-31cfc9e43a3c
+924,16,8,FR-M21B-42,"LL Mountain Frame - Black, 42",Black,42,1324.48,249.79,136.785,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,faabd7fb-cb35-4bad-8857-ec71468686ad
+925,16,8,FR-M21B-44,"LL Mountain Frame - Black, 44",Black,44,1342.63,249.79,136.785,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,47ab0300-7b55-4d35-a786-80190976b9b5
+926,16,8,FR-M21B-48,"LL Mountain Frame - Black, 48",Black,48,1360.77,249.79,136.785,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,408435aa-15c0-41e5-981f-32a8226af15f
+927,16,8,FR-M21B-52,"LL Mountain Frame - Black, 52",Black,52,1378.91,249.79,136.785,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,4800f4e6-99ea-4afd-a392-2cb05265d0d4
+928,41,85,TI-M267,LL Mountain Tire,,,,24.99,9.3463,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,76060a93-949c-48ea-9b31-a593d6c14983
+929,41,86,TI-M602,ML Mountain Tire,,,,29.99,11.2163,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,daff9e11-6254-432d-8c4f-f06e52687184
+930,41,87,TI-M823,HL Mountain Tire,,,,35,13.09,mb_tires_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,ddad25f5-0445-4b5c-8466-6446930ad8b8
+931,41,88,TI-R092,LL Road Tire,,,,21.49,8.0373,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,15b569a6-d172-42c2-a420-62ab5946cc80
+932,41,89,TI-R628,ML Road Tire,,,,24.99,9.3463,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,d1016cc5-c12b-4f05-915c-70fa062e4a64
+933,41,90,TI-R982,HL Road Tire,,,,32.6,12.1924,street_tires_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,c86de56a-5048-4b89-b7c7-56bc75c9bcee
+934,41,91,TI-T723,Touring Tire,,,,28.99,10.8423,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,9d5ca300-5302-41e1-bca5-8ce5b93f26a5
+935,17,62,PD-M282,LL Mountain Pedal,Silver/Black,,218,40.49,17.9776,pedal_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,9fdd0c65-b2b0-4c6c-8704-3a9747be5174
+936,17,63,PD-M340,ML Mountain Pedal,Silver/Black,,215,62.09,27.568,pedal_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,274c86dc-439e-4469-9de8-7e9bd6455d0d
+937,17,64,PD-M562,HL Mountain Pedal,Silver/Black,,185,80.99,35.9596,pedal_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,a05464e8-6b4d-42b3-a4d6-8683136f4b66
+938,17,68,PD-R347,LL Road Pedal,Silver/Black,,189,40.49,17.9776,clipless_pedals_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,2c7dd8c3-4c55-475f-ba58-f4baca520d72
+939,17,69,PD-R563,ML Road Pedal,Silver/Black,,168,62.09,27.568,clipless_pedals_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,216ad46f-bc3f-4862-b0e9-2e261e5a6059
+940,17,70,PD-R853,HL Road Pedal,Silver/Black,,149,80.99,35.9596,clipless_pedals_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,44e96967-ab99-41ed-8b41-5bc70a5ca1a9
+941,17,53,PD-T852,Touring Pedal,Silver/Black,,,80.99,35.9596,clipless_pedals_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,6967c816-3ebb-45fa-8547-cef00e08573e
+942,16,15,FR-M63S-38,"ML Mountain Frame-W - Silver, 38",Silver,38,1238.3,364.09,199.3757,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,ba3646b0-1487-426e-ab4e-57d42e6f9233
+943,16,8,FR-M21B-40,"LL Mountain Frame - Black, 40",Black,40,1306.34,249.79,136.785,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,3050e4df-2bba-4c2b-bdcc-b4c89972db1c
+944,16,8,FR-M21S-40,"LL Mountain Frame - Silver, 40",Silver,40,1306.34,264.05,144.5938,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,756f862e-40cc-4dfc-b189-716d0dda5ff9
+945,13,103,FD-2342,Front Derailleur,Silver,,88,91.49,40.6216,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,448e9e7b-9548-4a4c-abb3-853686aa7517
+946,8,47,HB-T721,LL Touring Handlebars,,,,46.09,20.464,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,a2f1352e-45d0-42c4-aef3-60033073bb66
+947,8,48,HB-T928,HL Touring Handlebars,,,,91.57,40.6571,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,cb524e92-4fa8-4f6c-9993-60796856c654
+948,10,102,FB-9873,Front Brakes,Silver,,317,106.5,47.286,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,c1813164-1b4b-42d1-9007-4e5f9aee0e19
+949,12,99,CS-4759,LL Crankset,Black,,600,175.49,77.9176,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,41d47371-4374-46d3-8d61-b07616ec54f0
+950,12,100,CS-6583,ML Crankset,Black,,635,256.49,113.8816,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,d3a7a02c-a3d5-4a04-9454-0c4e43772b78
+951,12,101,CS-9183,HL Crankset,Black,,575,404.99,179.8156,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,2c4a8956-7b72-48fe-b028-699e117b1daa
+952,11,98,CH-0234,Chain,Silver,,,20.24,8.9866,silver_chain_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,5d27e2a5-27ec-4ccb-ba2c-fc980ffe6708
+953,7,35,BK-T44U-60,"Touring-2000 Blue, 60",Blue,60,12655.16,1214.85,755.1508,julianax_r_02_blue_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,f1bb3957-8d27-47f3-91ec-c71822d11436
+954,7,34,BK-T79Y-46,"Touring-1000 Yellow, 46",Yellow,46,11398.72,2384.07,1481.9379,julianax_r_02_yellow_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,83b77413-8c8a-4af1-93e4-136edb7ff15f
+955,7,34,BK-T79Y-50,"Touring-1000 Yellow, 50",Yellow,50,11530.26,2384.07,1481.9379,julianax_r_02_yellow_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,5ec991ad-8761-4a61-a318-312df3a78604
+956,7,34,BK-T79Y-54,"Touring-1000 Yellow, 54",Yellow,54,11648.19,2384.07,1481.9379,julianax_r_02_yellow_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,1220b0f0-064d-46b7-8507-1fa758b77b9c
+957,7,34,BK-T79Y-60,"Touring-1000 Yellow, 60",Yellow,60,11747.98,2384.07,1481.9379,julianax_r_02_yellow_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,bcd1a5a9-6140-4dc9-9620-689dc7e4c155
+958,7,36,BK-T18U-54,"Touring-3000 Blue, 54",Blue,54,13462.55,742.35,461.4448,julianax_r_02_blue_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,a3ee6897-52fe-42e4-92ec-7a91e7bb905a
+959,7,36,BK-T18U-58,"Touring-3000 Blue, 58",Blue,58,13562.34,742.35,461.4448,julianax_r_02_blue_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,23d89cee-9f44-4f3e-b289-63de6ba2b737
+960,7,36,BK-T18U-62,"Touring-3000 Blue, 62",Blue,62,13607.7,742.35,461.4448,julianax_r_02_blue_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,060192c9-bcd9-4260-b729-d6bcfadfb08e
+961,7,36,BK-T18Y-44,"Touring-3000 Yellow, 44",Yellow,44,13049.78,742.35,461.4448,julianax_r_02_yellow_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,5646c15a-68ad-4234-b328-254706cbccc5
+962,7,36,BK-T18Y-50,"Touring-3000 Yellow, 50",Yellow,50,13213.08,742.35,461.4448,julianax_r_02_yellow_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,df85e805-af87-4fab-a668-c80f2a5b8a69
+963,7,36,BK-T18Y-54,"Touring-3000 Yellow, 54",Yellow,54,13344.62,742.35,461.4448,julianax_r_02_yellow_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,192becd1-f465-4194-88a2-ee57fed3a3c5
+964,7,36,BK-T18Y-58,"Touring-3000 Yellow, 58",Yellow,58,13512.45,742.35,461.4448,julianax_r_02_yellow_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,bed79f64-a53d-44a3-ace8-2baa425a5a54
+965,7,36,BK-T18Y-62,"Touring-3000 Yellow, 62",Yellow,62,13607.7,742.35,461.4448,julianax_r_02_yellow_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,d28b3872-5173-40a4-b12f-655524386cc7
+966,7,34,BK-T79U-46,"Touring-1000 Blue, 46",Blue,46,11398.72,2384.07,1481.9379,julianax_r_02_blue_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,86990d54-6efb-4c53-9974-6c3b0297e222
+967,7,34,BK-T79U-50,"Touring-1000 Blue, 50",Blue,50,11530.26,2384.07,1481.9379,julianax_r_02_blue_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,68c0a818-2985-46eb-8255-0fb70919fa24
+968,7,34,BK-T79U-54,"Touring-1000 Blue, 54",Blue,54,11648.19,2384.07,1481.9379,julianax_r_02_blue_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,12280a8c-7578-4367-ba71-214bcc1e4792
+969,7,34,BK-T79U-60,"Touring-1000 Blue, 60",Blue,60,11747.98,2384.07,1481.9379,julianax_r_02_blue_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,dd70cf36-449a-43fd-839d-a84ee14c849a
+970,7,35,BK-T44U-46,"Touring-2000 Blue, 46",Blue,46,12305.9,1214.85,755.1508,julianax_r_02_blue_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,c0009006-715f-4b76-a05a-1a0d3adfb49a
+971,7,35,BK-T44U-50,"Touring-2000 Blue, 50",Blue,50,12437.44,1214.85,755.1508,julianax_r_02_blue_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,84abda8f-0007-4bca-9a61-b2dea58866c3
+972,7,35,BK-T44U-54,"Touring-2000 Blue, 54",Blue,54,12555.37,1214.85,755.1508,julianax_r_02_blue_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,6dcfe2a3-3555-44e4-9116-6f6dbe448b8b
+973,6,27,BK-R79Y-40,"Road-350-W Yellow, 40",Yellow,40,6962.61,1700.99,1082.51,roadster_yellow_f_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,237b16d9-53f2-4fd4-befe-48209e57aec3
+974,6,27,BK-R79Y-42,"Road-350-W Yellow, 42",Yellow,42,7153.11,1700.99,1082.51,roadster_yellow_f_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,80bd3f8b-42c7-43d8-91f5-9fb6175287af
+975,6,27,BK-R79Y-44,"Road-350-W Yellow, 44",Yellow,44,7316.41,1700.99,1082.51,roadster_yellow_f_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,0c61e8af-003d-4e4b-b5b7-02f01a26be26
+976,6,27,BK-R79Y-48,"Road-350-W Yellow, 48",Yellow,48,7447.95,1700.99,1082.51,roadster_yellow_f_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,ec4284dc-85fa-44a8-89ec-77fc9b71720a
+977,6,31,BK-R19B-58,"Road-750 Black, 58",Black,58,9430.14,539.99,343.6496,roadster_black_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,87b81a1a-a5b5-43d2-a20d-0230800490b9
+978,7,36,BK-T18U-44,"Touring-3000 Blue, 44",Blue,44,13049.78,742.35,461.4448,julianax_r_02_blue_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,4f638e15-2ed0-4193-90ce-47da580e01dd
+979,7,36,BK-T18U-50,"Touring-3000 Blue, 50",Blue,50,13213.08,742.35,461.4448,julianax_r_02_blue_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,de305b62-88fc-465b-b23d-d8c0f7e6d361
+980,5,22,BK-M38S-38,"Mountain-400-W Silver, 38",Silver,38,11952.1,769.49,419.7784,hotrodbike_f_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,7a927632-99a4-4f24-adce-0062d2d113d9
+981,5,22,BK-M38S-40,"Mountain-400-W Silver, 40",Silver,40,12142.6,769.49,419.7784,hotrodbike_f_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,0a72791c-a984-4733-ae4e-2b4373cfd7cd
+982,5,22,BK-M38S-42,"Mountain-400-W Silver, 42",Silver,42,12305.9,769.49,419.7784,hotrodbike_f_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,4ea4fe06-aaea-42d4-a9d9-69f6a9a4a042
+983,5,22,BK-M38S-46,"Mountain-400-W Silver, 46",Silver,46,12437.44,769.49,419.7784,hotrodbike_f_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,0b0c8ee4-ff2d-438e-9cac-464783b86191
+984,5,23,BK-M18S-40,"Mountain-500 Silver, 40",Silver,40,12405.69,564.99,308.2179,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,b96c057b-6416-4851-8d59-bcb37c8e6e51
+985,5,23,BK-M18S-42,"Mountain-500 Silver, 42",Silver,42,12596.19,564.99,308.2179,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,b8d1b5d9-8a39-4097-a04a-56e95559b534
+986,5,23,BK-M18S-44,"Mountain-500 Silver, 44",Silver,44,12759.49,564.99,308.2179,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,e8cec794-e8e2-4312-96a7-4832e573d3fc
+987,5,23,BK-M18S-48,"Mountain-500 Silver, 48",Silver,48,12891.03,564.99,308.2179,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,77ef419f-481f-40b9-bdb9-7e6678e550e3
+988,5,23,BK-M18S-52,"Mountain-500 Silver, 52",Silver,52,13008.96,564.99,308.2179,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,cad60945-183e-4ab3-a70c-3f5bac6bf134
+989,5,23,BK-M18B-40,"Mountain-500 Black, 40",Black,40,12405.69,539.99,294.5797,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,28287157-3f06-487b-8531-bee8a37329e4
+990,5,23,BK-M18B-42,"Mountain-500 Black, 42",Black,42,12596.19,539.99,294.5797,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,f5752c9c-56ba-41a7-83fd-139da28c15fa
+991,5,23,BK-M18B-44,"Mountain-500 Black, 44",Black,44,12759.49,539.99,294.5797,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,c7852127-2fb8-4959-b5a3-de5a8d6445e4
+992,5,23,BK-M18B-48,"Mountain-500 Black, 48",Black,48,12891.03,539.99,294.5797,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,75752e26-a3b6-4264-9b06-f23a4fbdc5a7
+993,5,23,BK-M18B-52,"Mountain-500 Black, 52",Black,52,13008.96,539.99,294.5797,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,69ee3b55-e142-4e4f-aed8-af02978fbe87
+994,9,95,BB-7421,LL Bottom Bracket,,,223,53.99,23.9716,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,fa3c65cd-0a22-47e3-bdf6-53f1dc138c43
+995,9,96,BB-8107,ML Bottom Bracket,,,168,101.24,44.9506,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,71ab847f-d091-42d6-b735-7b0c2d82fc84
+996,9,97,BB-9108,HL Bottom Bracket,,,170,121.49,53.9416,no_image_available_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,230c47c5-08b2-4ce3-b706-69c0bdd62965
+997,6,31,BK-R19B-44,"Road-750 Black, 44",Black,44,8967.47,539.99,343.6496,roadster_black_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,44ce4802-409f-43ab-9b27-ca53421805be
+998,6,31,BK-R19B-48,"Road-750 Black, 48",Black,48,9130.77,539.99,343.6496,roadster_black_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,3de9a212-1d49-40b6-b10a-f564d981dbde
+999,6,31,BK-R19B-52,"Road-750 Black, 52",Black,52,9262.31,539.99,343.6496,roadster_black_small.gif,2007-07-01 00:00:00,,2008-03-11 00:00:00,,ae638923-2b67-4679-b90e-abbab17dca31

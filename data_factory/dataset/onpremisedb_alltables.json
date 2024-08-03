@@ -1,0 +1,12 @@
+{
+	"name": "onpremisedb_alltables",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "onpremise_sqlserver",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	}
+}

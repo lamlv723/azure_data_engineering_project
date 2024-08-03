@@ -1,0 +1,19 @@
+{
+	"name": "azure_databrick_de_project",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-3303541454977024.4.azuredatabricks.net",
+			"accessToken": {
+				"type": "AzureKeyVaultSecret",
+				"store": {
+					"referenceName": "kv_data_engineering_project",
+					"type": "LinkedServiceReference"
+				},
+				"secretName": "databrick-access-token-for-adf"
+			},
+			"existingClusterId": "0518-170313-10hylwzn"
+		}
+	}
+}

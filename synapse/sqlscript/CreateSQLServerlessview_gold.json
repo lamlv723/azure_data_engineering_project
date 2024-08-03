@@ -1,0 +1,17 @@
+{
+	"name": "CreateSQLServerlessview_gold",
+	"properties": {
+		"content": {
+			"query": "CREATE OR ALTER PROCEDURE CreateSQLServerlessview_gold @TableName NVARCHAR(100)\nAS\nBEGIN\n    DECLARE @ViewName NVARCHAR(103), @Statement VARCHAR(MAX)\n    SET @ViewName = @TableName + '_vw'\n\n    SET @Statement =\n    N'CREATE OR ALTER VIEW ' + @ViewName + \n    ' AS\n        SELECT *\n        FROM\n        OPENROWSET(\n            BULK ''https://adlsaccountdeproject.dfs.core.windows.net/gold/SalesLT/' + @TableName + '/'',\n            FORMAT = ''DELTA''\n        ) AS [result]'\n\n    EXECUTE (@Statement)\nEND",
+			"metadata": {
+				"language": "sql"
+			},
+			"currentConnection": {
+				"databaseName": "gold_db",
+				"poolName": "Built-in"
+			},
+			"resultLimit": 5000
+		},
+		"type": "SqlQuery"
+	}
+}
